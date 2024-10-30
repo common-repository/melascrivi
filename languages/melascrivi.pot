@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Melascrivi Wordpress Plugin 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-23 12:52+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: melascrivi <info@melascrivi.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "save draft"
+msgstr ""
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "accept"
+msgstr ""
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "reject"
+msgstr ""
+
+

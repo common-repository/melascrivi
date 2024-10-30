@@ -1,0 +1,869 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Melascrivi Wordpress Plugin 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-23 12:52+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: melascrivi <info@melascrivi.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "save draft"
+msgstr "Metti in bozze"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "accept"
+msgstr "Accetta articolo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "correct"
+msgstr "Richiedi correzione"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "reject"
+msgstr "Rifiuta"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "id"
+msgstr "Id"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "title"
+msgstr "Titolo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "last status date"
+msgstr "Ultimo aggiornamento"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "status"
+msgstr "Stato"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "s1"
+msgstr "Prenotabile"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "s2"
+msgstr "In scrittura"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "s3"
+msgstr "In revisione"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "s4"
+msgstr "In correzione"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "s5"
+msgstr "Rifiutato"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "s6"
+msgstr "Accettato"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "s7"
+msgstr "Scaduto"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "s8"
+msgstr "Cancellato"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "email"
+msgstr "Email"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "passwd"
+msgstr "Password"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "re passwd"
+msgstr "Reinserisci la password"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "save"
+msgstr "Salva"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "already registered"
+msgstr "Già registrato"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "new user"
+msgstr "Nuovo utente"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "ratings user"
+msgstr "Esprimi un giudizio sull'autore"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "style rating"
+msgstr "Stile espositivo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "guideline rating"
+msgstr "Rispetto delle Linee guida"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "grammar rating"
+msgstr "Correttezza della grammatica"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "global judgment"
+msgstr "Giudizio complessivo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "insufficient"
+msgstr "Insufficiente"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "sufficient"
+msgstr "Sufficiente"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "good"
+msgstr "Buono"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "excellent"
+msgstr "Ottimo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "tip for author"
+msgstr "Note per l'autore"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "motivation"
+msgstr "Motivazione"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "select a button to evaluate the order"
+msgstr "Seleziona uno dei pulsanti che trovi qui sopra per valutare l'articolo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "this author don't write for me anymore"
+msgstr "Non voglio pi&ugrave; che questo autore scriva articoli per me"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "detail article"
+msgstr "Dettagli articolo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "article id"
+msgstr "Id articolo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "article name"
+msgstr "Nome articolo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "article title"
+msgstr "Titolo articolo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "article description"
+msgstr "Descrizione articolo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "project"
+msgstr "Progetto"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "style"
+msgstr "Stile"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "category"
+msgstr "Categoria"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "quality"
+msgstr "Qualità"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "deadline"
+msgstr "Scadenza"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "words"
+msgstr "Parole"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "real words"
+msgstr "Parole reali"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "guideline description"
+msgstr "Descrizione Linea Guida"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "max price"
+msgstr "Prezzo Massimo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "price"
+msgstr "Prezzo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "author"
+msgstr "Autore"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "autoPubblication"
+msgstr "Auto pubblicazione"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "hours"
+msgstr "ore"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "no"
+msgstr "No"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "article"
+msgstr "Articolo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "proceding i accept that deadline will modified"
+msgstr ""
+"Procedendo accetto che la data di scadenza dell'articolo possa essere "
+"posticipata automaticamente di 15 ore per dare la possibilita' all'autore di "
+"effettuare le correzioni necessarie!"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "error"
+msgstr "Errore"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "please insert more detail for correction"
+msgstr ""
+"Per favore, inserire note pi&ugrave; dettagliate per la correzione (min 10 "
+"parole)"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "please insert more detail for rejection"
+msgstr ""
+"Per favore, inserire delle motivazioni pi&ugrave; dettagliate per il rifiuto "
+"min 5 parole)"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "article in wrong status"
+msgstr "Articolo in stato errato per l'accettazione"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "article is copied"
+msgstr "L'articolo &egrave; copiato"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "article is not your"
+msgstr "Sessione scaduta ricarica la pagina per continuare"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "article accepted"
+msgstr "L'articolo &egrave; stato accettato"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "article in correction"
+msgstr "L'articolo &egrave; in correzione"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "article rejected"
+msgstr "L'articolo &egrave; stato rifiutato"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "no text yet"
+msgstr "Nessun testo al momento"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "back to list"
+msgstr "Torna all'elenco degli articoli"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "article not added as draft"
+msgstr "Articolo non aggiunto alle bozze"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "article added as draft successfully"
+msgstr "Articolo aggiunto alle bozze con successo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "pending orders"
+msgstr "Ordini in attesa di approvazione"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "list of orders"
+msgstr "Elenco degli ordini"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "loading"
+msgstr "Caricamento"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "next"
+msgstr "Avanti"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "back"
+msgstr "Indietro"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "project name"
+msgstr "Nome Progetto"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "add new project"
+msgstr "Crea nuovo progetto"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "add"
+msgstr "Crea"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "projects list"
+msgstr "Lista progetti"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "date"
+msgstr "Data"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "total orders"
+msgstr "Totale ordini"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "published orders"
+msgstr "Ordini publicati"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "waiting for review"
+msgstr "In attesa di revisione"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "writing"
+msgstr "In scrittura"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "accepted"
+msgstr "Accettati"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "project created successfully"
+msgstr "Progetto creato con successo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "error during creation, retry later"
+msgstr "Errore durante la creazione, riprovare più tardi"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "please insert a name for the project"
+msgstr "Inserisci un nome per il progetto!"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "not allowed"
+msgstr "Errore durante l'operazione, riprovare più tardi"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "Melascrivi Configuration"
+msgstr "Configurazione Melascrivi"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "melascrivi option"
+msgstr "Opzioni Melascrivi"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "show articles"
+msgstr "Mostra Articoli"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "projects"
+msgstr "Progetti"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "review article"
+msgstr "Rivedi Articolo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "guideline"
+msgstr "Linee Guida"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "choose a style"
+msgstr "Scegli uno stile"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "choose a category"
+msgstr "Scegli una categoria"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "min words"
+msgstr "N° min di parole"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "max words"
+msgstr "N° max di parole"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "description"
+msgstr "Descrizione"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "this description will be used as template for order description"
+msgstr ""
+"(questa descrizione verrà utilizzata come template per la descrizione degli "
+"ordini)"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "add new guideline"
+msgstr "Crea una lineaguida"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "edit guideline"
+msgstr "Modifica lineaguida"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "action"
+msgstr "Azioni"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "guideline list"
+msgstr "Lista linee guida"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "min words must be at least 30 words"
+msgstr "Devi inserire un numero minimo di parole almeno pari a 30"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "please insert category, style, min words, max words and description"
+msgstr "Devi compilare tutti i campi"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "max words must be higher than min words"
+msgstr "In numero massimo di parole deve essere maggiore del numero minimo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "guideline created successfully"
+msgstr "Linea guida creata con successo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "guideline modifyed successfully"
+msgstr "Linea guida modificata con successo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "create orders"
+msgstr "Richiedi nuovi articoli"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "select quality"
+msgstr "Seleziona la qualit&agrave;"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "add articles"
+msgstr "Aggiungi articoli"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "order details"
+msgstr "Dettagli articoli"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "orders number"
+msgstr "Numero articoli"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "commission price"
+msgstr "Costo di commissione"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "circle price"
+msgstr "Costo di redazione"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "total price"
+msgstr "Costo totale (massimo)"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "in case that author reach max words number"
+msgstr " Nel caso in cui l'autore raggiunga il numero massimo di parole"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "select project"
+msgstr "Seleziona un progetto"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "select guideline"
+msgstr "Seleziona una lineaguida"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "with circle"
+msgstr "Con redazione"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "with features"
+msgstr "Con servizi aggiuntivi"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "order list"
+msgstr "Riepilogo ordini"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "send orders"
+msgstr "Invia ordini"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "euro/word"
+msgstr "Euro/Parola"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "you must choose a project!"
+msgstr "Devi selezionare un progetto!"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "you must choose a guideline!"
+msgstr "Devi selezionare una linea guida!"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "you must choose a date!"
+msgstr ""
+"per pubblicare un ordine premium &eacute; necessario inserire data e ora di "
+"scadenza"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "you must choose a quality!"
+msgstr "Devi selezionare un livello di qualit&agrave;"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "you must insert a description!"
+msgstr "Devi inserire una descrizione!"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "the deadline should be at leat 2 hours from current time"
+msgstr "La data di scadenza deve essere almeno 2 ore oltre la data attuale!"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "error empty orders table"
+msgstr ""
+"Devi inserire almeno un ordine nella lista per poter inviare gli ordini"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "some orders couldn't be created, try again later"
+msgstr ""
+"Uno o pi&ugrave; ordini non sono andati a buon fine, vi preghiamo di "
+"riprovare"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "not enough money"
+msgstr ""
+"Non hai abbastanza soldi sul conto per questo ordine, effetta una ricarica"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "profile not complete"
+msgstr "Per poter effettuare gli ordini devi prima completare il tuo profilo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "create articles"
+msgstr "Crea articoli"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "use circle for this project"
+msgstr "Utilizza la redazione"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "feature prices"
+msgstr "Costo delle features"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "remove"
+msgstr "Rimuovi"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "user ok"
+msgstr "Dati salvati con successo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "confirm user"
+msgstr "Registrazione da confermare"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "blocked user"
+msgstr "Editore bloccato"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "user not found"
+msgstr "Editore non trovato"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "user created"
+msgstr "Editore creato con successo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "wrong password lenght"
+msgstr "La password deve essere compresa tra 6 e 30 caratteri"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "wrong confirm password"
+msgstr "La password e la conferma non sono uguali"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "user already registered"
+msgstr "Editore gi&agrave; registrato"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "user already activated"
+msgstr "Editore gi&agrave; attivato"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "user not registered"
+msgstr "Editore non registrato"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "user activated"
+msgstr "Editore attivato"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "activate user"
+msgstr "Attiva Editore"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "recharge account"
+msgstr "Ricarica credito Melascrivi"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "recharge your account"
+msgstr "Ricarica il tuo conto"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "iva"
+msgstr "Iva"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "paypal recharge done successfully"
+msgstr "La ricarica paypal &egrave; stata eseguita correttamente!"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "paypal error retry later"
+msgstr ""
+"C'&egrave; stato un problema durante la ricarica paypal, riprovare "
+"pi&ugrave; tardi!"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "balance"
+msgstr "Credito residuo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "budget management"
+msgstr "Gestione conto - ricarica"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "search"
+msgstr "Cerca"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "no record found"
+msgstr "Nessun risultato trovato"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "no record"
+msgstr "Nessun record"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "manage balance"
+msgstr "Gestione conto"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "send"
+msgstr "Invia"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "activation key"
+msgstr "Chiave di attivazione"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "https://www.paypalobjects.com/it_IT/IT/i/btn/btn_buynowCC_LG.gif"
+msgstr "https://www.paypalobjects.com/it_IT/IT/i/btn/btn_buynowCC_LG.gif"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "charging"
+msgstr "Caricamento..."
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "num_elements"
+msgstr "Visualizza _MENU_ elementi"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "no_elements"
+msgstr "Nessun elemento disponibile"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "total_results"
+msgstr "Totale: _TOTAL_ risultati"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "zero_results"
+msgstr "Totale: 0 risultati"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "filtered"
+msgstr "(filtrati da _MAX_ risultati totali)"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "help center"
+msgstr "Assistenza"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "our team will answer soon as possible"
+msgstr ""
+"Il nostro team risponderà il prima possibile, controlla periodicamente la "
+"tua casella email, l'assistenza è aperta dal lun al ven dalle 9 alle 12 e "
+"dalle 15 alle 18"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "ticket sent successfully"
+msgstr "Ticket inviato con successo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "text"
+msgstr "Testo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "insert here the topic"
+msgstr "Inserisci qui il titolo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "insert here the text"
+msgstr "Inserisci qui il testo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "total"
+msgstr "Totale"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "filtered from"
+msgstr "filtrato da"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "total result"
+msgstr "risultati totali"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "orders created successfully"
+msgstr "Ordini creati con successo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "do you want to delate this order?"
+msgstr "Sei sicuro di voler eliminare questo ordine?"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "the order couldn't be removed in the actual status"
+msgstr ""
+"L'ordine non pu&ograve; essere rimosso nello stato in cui si trova "
+"attualmente"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "generic error"
+msgstr "Operazione non riuscita, ti preghiamo di riprovare pi&ugrave; tardi"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "yes"
+msgstr "Si"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "updating"
+msgstr "Aggiornamento"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "choose the website"
+msgstr "Scegli il sito da utilizzare"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "published"
+msgstr "Pubblicato"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "correction notes"
+msgstr "Commento fornito per la correzione"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "order info user"
+msgstr "Altre informazioni sull'Autore"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "all the information are relative to what the author has wrote for you"
+msgstr ""
+"Tutte le informazioni sono relative agli articoli che l&#39;autore ha "
+"scritto per te"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "general_rating"
+msgstr "Rating generale"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "guideline_rating"
+msgstr "Rating guideline"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "grammar_rating"
+msgstr "Rating grammatica"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "acceptedOrders"
+msgstr "N. Totale Articoli Accettati"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "totalOrders"
+msgstr "N. Totale Articoli"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "acceptedOrdersPerc"
+msgstr "% Articoli Accettati"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "insufficient_label"
+msgstr "insufficiente"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "sufficient_label"
+msgstr "sufficiente"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "good_label"
+msgstr "buono"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "excellent_label"
+msgstr "ottimo"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "no other info"
+msgstr "Nessuna informazione aggiuntiva sull'autore"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "set publication date"
+msgstr "Imposta la data di pubblicazione"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid ""
+"To programm the publication of an order is necessary to choose the date and "
+"hours of insertion"
+msgstr ""
+"Per programmare la pubblicazione di un ordine &eacute; necessario inserire "
+"data e ora di inserimento"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "s13"
+msgstr "Programmato"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "authors"
+msgstr "Autori"
+
+#: /wp-content/plugins/melascrivi/melascrivi_php_client/MelascriviPlugin.php:
+msgid "proof reading Cost"
+msgstr "Costo ProofReading"
